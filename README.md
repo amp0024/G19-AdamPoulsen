@@ -4,8 +4,9 @@ Pocket Pitching Coach App -
 
 This app is designed to be a tool that both baseball coaches and players can use to track their bullpens/practice.  Users will be directed via the app to throw certain pitches to specific locations in the strike zone.  The bullpen/practice session will last app. 25 pitches. The user will input the location result of their pitch to the app by selecting the button nearest to the location in the strike zone.  Upon completing the session players will receive a final score and detailed results including pitch type % and location % of spots hit.  This will give them the ability to pinpoint what pitches and locations they need to practice on.
 
-![alt tag](https://raw.github.com/amp0024/projectname/branch/path/to/img.png)
-
+![alt tag](https://github.com/amp0024/G19-AdamPoulsen/blob/master/login_page.png)
+![alt tag](https://github.com/amp0024/G19-AdamPoulsen/blob/master/main_page.png)
+![alt tag](https://github.com/amp0024/G19-AdamPoulsen/blob/master/results_page.png)
 
 Uses and Users
 Parents, coaches, and players.  Designed for high school and college age players.
